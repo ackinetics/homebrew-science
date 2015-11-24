@@ -1,4 +1,5 @@
 class Glpk < Formula
+  desc "GLPK (GNU Linear Programming Kit) solves Linear Programming (LP) and Mixed Integer Programming (MIP) problems"
   homepage "https://www.gnu.org/software/glpk/"
   url "http://ftpmirror.gnu.org/glpk/glpk-4.57.tar.gz"
   mirror "https://ftp.gnu.org/gnu/glpk/glpk-4.57.tar.gz"
